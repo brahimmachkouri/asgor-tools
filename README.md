@@ -92,4 +92,4 @@ Les tests utilisent de faux npm, pnpm et Composer : ils ne touchent à aucun vra
 
 ## Licence
 
-[MIT](LICENSE) © 2026 BM
+[MIT](LICENSE)
